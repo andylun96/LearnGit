@@ -1,5 +1,6 @@
-Git is a distributed version of Controlling system
-Git is a free software distributed under GPL
+Git is a distributed version of Controlling system.
+Git is a free software distributed under GPL.
+Git has a mutable index called stage.
 
 初始化一个Git仓库，使用git init命令。
 
