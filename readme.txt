@@ -1,4 +1,4 @@
-Git is a version of Controlling system
+Git is a distributed version of Controlling system
 Git is a free software
 
 初始化一个Git仓库，使用git init命令。
